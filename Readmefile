@@ -1,0 +1,15 @@
+# ⏰ Digital Clock
+
+A stylish **digital clock** with a **glowing neon effect, modern design, and smooth transitions**. Built using **HTML, CSS, and JavaScript**, this clock is fully **responsive** and looks great on all screen sizes.
+
+## 🚀 Features
+✅ **Real-time clock** updates every second  
+✅ **Neon glow effect** with smooth animations  
+✅ **Glassmorphism design** for a modern look  
+✅ **Hover scaling effect**  
+✅ **Fully responsive** for all devices  
+
+## 📂 Project Structure
+index.html
+index.css
+index.js
