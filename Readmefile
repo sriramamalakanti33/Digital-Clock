@@ -13,3 +13,24 @@ A stylish **digital clock** with a **glowing neon effect, modern design, and smo
 index.html
 index.css
 index.js
+
+## ✨ Additional Features
+
+✅ **12/24-hour format toggle** – Switch easily between AM/PM and 24-hour time formats  
+✅ **Customizable color themes** – Change neon colors or background for a personalized look  
+✅ **Dark & light mode support** – Automatically adapts to system preferences  
+✅ **Date display** – Shows the current date below the time  
+✅ **Alarm functionality** – Set and manage simple alarms  
+✅ **Sound effects** – Optional ticking or alarm sounds  
+✅ **Configurable font styles** – Choose from multiple modern fonts  
+✅ **Draggable clock widget** – Move the clock around your screen  
+✅ **Localization support** – Display time and date in different languages/regions  
+✅ **Minimal mode** – Hide decorative elements for a clean look  
+✅ **Accessibility-friendly** – High contrast and screen reader support  
+
+##🧠 Ideas for Future Enhancements
+Add analog clock mode
+Add alarm functionality
+Add time zones or world clock
+Add weather info using an API
+Add animations or transitions
